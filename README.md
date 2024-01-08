@@ -1,7 +1,7 @@
 <h2 align="left">Hi 👋, I'm Grzegorz</h1>
 <h3 align="left">Front-end developer. Former Game Designer, Vide Game QA Project Manager.</h3>
 
-👨‍💻 Make sure to visit my [page](https://gd-portfolio.vercel.app/) to learn more about my projects!
+<p>👨‍💻 Make sure to visit my <a href="https://gd-portfolio.vercel.app/" target="_blank" rel="noreferrer">page</a> to learn more about my projects!</p>
 
 <h3 align="left">Languages and Tools:</h3>
 <div >
