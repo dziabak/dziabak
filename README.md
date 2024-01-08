@@ -1,5 +1,5 @@
 <h2 align="left">Hi 👋, I'm Grzegorz</h1>
-<h3 align="left">Front-end developer. Former Game Designer, Vide Game QA Project Manager.</h3>
+<h3 align="left">Front-end developer. Former Game Designer & Video Game FQA Project Manager.</h3>
 
 <p>👨‍💻 Make sure to visit my <a href="https://gd-portfolio.vercel.app/" target="_blank" rel="noreferrer">page</a> to learn more about my projects!</p>
 
